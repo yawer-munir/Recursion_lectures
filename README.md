@@ -1,7 +1,25 @@
 # Recursion_lectures
 In these 2 lecutures, I have covered the basics of recursion and their purpose such as traversal of tree and graph. which included Depth First Search and Breadth First Search.
 
-| Lecture 1 | Description                          | Presenter       |
-|-----------|--------------------------------------|-----------------|
-|  <a href"https://youtu.be/abc123](https://youtu.be/XMFhquUeqLw?si=o3rkKWIoJIkTZ_W"> Lecture 1 | Introduction to Recursion | Yawar Munir  |
-|  [Lecture 2]([https://youtu.be/abc123](https://youtu.be/-5JE9zowTA4?si=nvNxnmPq9Z7aGn45)) | Tree data strucutre and traversal algorithms  | Yawar Munir |
+<table>
+  <thead>
+    <tr>
+      <th>Lecture 1</th>
+      <th>Description</th>
+      <th>Presenter</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://youtu.be/XMFhquUeqLw?si=zQ6WQ2FujAdusD6G" target="_blank" rel="noopener">Lecture 1</a></td>
+      <td>Introduction to Recursion</td>
+      <td>Yawar Munir</td>
+    </tr>
+    <tr>
+       <td><a href="https://youtu.be/-5JE9zowTA4?si=BiR8qGWlNVq-NzXg" target="_blank" rel="noopener">Lecture 2</a></td>
+      <td>Tree Data Strucuture and traversal aglorithms</td>
+       <td>Yawar Munir</td>
+    </tr>
+  </tbody>
+</table>
+
